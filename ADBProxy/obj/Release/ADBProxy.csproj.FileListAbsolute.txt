@@ -1,0 +1,6 @@
+D:\c#code\ADBProxy\ADBProxy\bin\Release\ADBProxy.exe.config
+D:\c#code\ADBProxy\ADBProxy\bin\Release\ADBProxy.exe
+D:\c#code\ADBProxy\ADBProxy\bin\Release\ADBProxy.pdb
+D:\c#code\ADBProxy\ADBProxy\obj\Release\ADBProxy.csproj.CoreCompileInputs.cache
+D:\c#code\ADBProxy\ADBProxy\obj\Release\ADBProxy.exe
+D:\c#code\ADBProxy\ADBProxy\obj\Release\ADBProxy.pdb
